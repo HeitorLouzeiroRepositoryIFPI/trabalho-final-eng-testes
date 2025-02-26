@@ -13,12 +13,12 @@
   <p align="center">
     A comprehensive suite of automated tests for web applications using Selenium WebDriver
     <br />
-    <a href="https://github.com/HeitorLouzeiro/trabalho-final-eng-testes"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/HeitorLouzeiroRepositoryIFPI/trabalho-final-eng-testes"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/HeitorLouzeiro/trabalho-final-eng-testes/issues">Report Bug</a>
+    <a href="https://github.com/HeitorLouzeiroRepositoryIFPI/trabalho-final-eng-testes/issues">Report Bug</a>
     ·
-    <a href="https://github.com/HeitorLouzeiro/trabalho-final-eng-testes/issues">Request Feature</a>
+    <a href="https://github.com/HeitorLouzeiroRepositoryIFPI/trabalho-final-eng-testes/issues">Request Feature</a>
   </p>
 </div>
 
@@ -143,7 +143,7 @@ python ct_dynamic_001/main.py  # Dynamic content tests
 
 1. Clone the repository
    ```sh
-   git clone https://github.com/HeitorLouzeiro/trabalho-final-eng-testes.git
+   git clone https://github.com/HeitorLouzeiroRepositoryIFPI/trabalho-final-eng-testes.git
    ```
 
 2. Access the project folder
@@ -224,7 +224,7 @@ trabalho-final-eng-testes/
 - [x] Implement dynamic content tests
 
 
-See the [open issues](https://github.com/HeitorLouzeiro/trabalho-final-eng-testes/issues) for a full list of proposed features and known issues.
+See the [open issues](https://github.com/HeitorLouzeiroRepositoryIFPI/trabalho-final-eng-testes/issues) for a full list of proposed features and known issues.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -279,16 +279,16 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-[contributors-shield]: https://img.shields.io/github/contributors/HeitorLouzeiro/trabalho-final-eng-testes.svg?style=for-the-badge
-[contributors-url]: https://github.com/HeitorLouzeiro/trabalho-final-eng-testes/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/HeitorLouzeiro/trabalho-final-eng-testes.svg?style=for-the-badge
-[forks-url]: https://github.com/HeitorLouzeiro/trabalho-final-eng-testes/network/members
-[stars-shield]: https://img.shields.io/github/stars/HeitorLouzeiro/trabalho-final-eng-testes.svg?style=for-the-badge
-[stars-url]: https://github.com/HeitorLouzeiro/trabalho-final-eng-testes/stargazers
-[issues-shield]: https://img.shields.io/github/issues/HeitorLouzeiro/trabalho-final-eng-testes.svg?style=for-the-badge
-[issues-url]: https://github.com/HeitorLouzeiro/trabalho-final-eng-testes/issues
-[license-shield]: https://img.shields.io/github/license/HeitorLouzeiro/trabalho-final-eng-testes.svg?style=for-the-badge
-[license-url]: https://github.com/HeitorLouzeiro/trabalho-final-eng-testes/blob/master/LICENSE
+[contributors-shield]: https://img.shields.io/github/contributors/HeitorLouzeiroRepositoryIFPI/trabalho-final-eng-testes.svg?style=for-the-badge
+[contributors-url]: https://github.com/HeitorLouzeiroRepositoryIFPI/trabalho-final-eng-testes/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/HeitorLouzeiroRepositoryIFPI/trabalho-final-eng-testes.svg?style=for-the-badge
+[forks-url]: https://github.com/HeitorLouzeiroRepositoryIFPI/trabalho-final-eng-testes/network/members
+[stars-shield]: https://img.shields.io/github/stars/HeitorLouzeiroRepositoryIFPI/trabalho-final-eng-testes.svg?style=for-the-badge
+[stars-url]: https://github.com/HeitorLouzeiroRepositoryIFPI/trabalho-final-eng-testes/stargazers
+[issues-shield]: https://img.shields.io/github/issues/HeitorLouzeiroRepositoryIFPI/trabalho-final-eng-testes.svg?style=for-the-badge
+[issues-url]: https://github.com/HeitorLouzeiroRepositoryIFPI/trabalho-final-eng-testes/issues
+[license-shield]: https://img.shields.io/github/license/HeitorLouzeiroRepositoryIFPI/trabalho-final-eng-testes.svg?style=for-the-badge
+[license-url]: https://github.com/HeitorLouzeiroRepositoryIFPI/trabalho-final-eng-testes/blob/master/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/heitor-louzeiro
 
